@@ -6,13 +6,6 @@
 # Created:     14-November-2022
 # Updated:     23-November-2022
 #-----------------------------------------------------------------------------
-# I think this project deserves a level 3+ because ... 
-#    It recieves and utilizes microbit data in several ways with multiple features (listed  below)
-#    and is a completed/playable game 
-# Features Added:
-#   Score, Timer, Movement, Collision detections, shooter
-#   X and Y accelerometer, buttons, shake gesture
-#-----------------------------------------------------------------------------
 
 ''' 
 from microbit import *
